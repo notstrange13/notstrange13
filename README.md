@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @notstrange13
-- 👀 I’m interested in language learning, making friends and music
-- 🌱 I’m currently learning C language  
-- 💞️ I’m looking to collaborate on 
-- 📫 You can reach out to me on instagram - panda_shibasis
+- 👋 Hi, I’m Shibasis Panda
+- 👀 I’m interested in language learning, making friends and music.
+- 🌱 I’m currently learning C language and Web Development.  
+- 💞️ I’m looking to collaborate on with you so that we can learn together.
+- 📫 You can reach out to me on instagram - panda_shibasis and LinkedIn.
 - 😄 Pronouns- HE
 - ⚡ Fun fact: trees grow in the sunlight faster
 
