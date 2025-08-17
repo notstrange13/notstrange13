@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **C++, Machine Learning**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun fact **Machines do sneeze**
 
  </div>
  
