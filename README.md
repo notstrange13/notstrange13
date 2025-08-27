@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **my life**
  
- 🌱 I’m currently learning **C++, Machine Learning**
+ 🌱 I’m currently learning **C++, DS&A, Machine Learning**
 
 ⚡ Fun fact **Machines do sneeze**
 
