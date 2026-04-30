@@ -1,5 +1,3 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=notstrange13.notstrange13" />
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shibasis+Panda!;" />
 </h1>
@@ -12,7 +10,7 @@
  
  🔭 I’m currently working on **my life**
  
- 🌱 I’m currently learning **C++, DS&A, Machine Learning**
+ 🌱 I’m currently learning **C++, C and building systems**
 
 ⚡ Fun fact **Machines do sneeze**
 
@@ -36,7 +34,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,vscode,github,figma,git" />
-    <img src="https://skillicons.dev/icons?i=python,java,cpp" /><br>
+    <img src="https://skillicons.dev/icons?i=python,java,cpp,c" /><br>
 </div>
 
 <br/>
